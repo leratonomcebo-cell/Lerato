@@ -1,3 +1,1 @@
-HTML
-Codespace
-Lerato 
+index.html
